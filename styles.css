@@ -1,13 +1,27 @@
 h1 {
     color: black;
     text-align: center;
-    background-color: dimgrey;
+    background-color: grey;
+    font-family: monospace;
+    text-transform: uppercase;
 }
-h3 {
-    color: dimgrey; 
+h2, h3 {
+    color: black; 
     text-align: center;
+    text-transform: uppercase;
+    font-family: monospace;
+    text-decoration-line: underline;
+
 } 
 
 div {
-    background-color: cadetblue;
+
+    margin: 50px 50px;
+    font-family: monospace;
+    padding-left: 1em;
+}
+body {
+    border: solid 2px grey;
+    padding-right: 30em;
+    padding-left: 1em;
 }

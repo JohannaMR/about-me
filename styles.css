@@ -4,6 +4,10 @@ h1 {
     background-color: grey;
     font-family: monospace;
     text-transform: uppercase;
+position: absolute;
+left: 10px;
+right: 10px;
+top: 1px;
 }
 h2, h3 {
     color: black; 
@@ -24,4 +28,14 @@ body {
     border: solid 2px grey;
     padding-right: 30em;
     padding-left: 1em;
+    background-color: thistle;
+}
+.sidebar {
+  width: 200px;
+  height: 300px;
+  background-color: violet;
+  position: relative;
+  left: 600px;
+  bottom: 600px;
+  padding-top: 2em;
 }

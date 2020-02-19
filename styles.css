@@ -20,9 +20,9 @@ h2, h3 {
 
 div {
 
-    margin: 50px 50px;
+    margin: 50px 250px;
     font-family: monospace;
-    padding-left: 1em;
+    padding-left: 100px;
 }
 body {
     border: solid 2px grey;
@@ -35,7 +35,8 @@ body {
   height: 300px;
   background-color: violet;
   position: relative;
-  left: 600px;
-  bottom: 600px;
+  left: 900px;
+  bottom: 500px;
   padding-top: 2em;
+  padding-left: 1em;
 }
